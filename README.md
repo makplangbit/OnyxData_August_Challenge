@@ -59,4 +59,4 @@ The main aim of this project is to analyze an automobile insurance companys data
 
 Complete competition details can be found here [https://lnkd.in/dGkUGd2]
 
-A big thanks to [Onyx Data], [Pomerol Partners], [Astrato Analytics], [novyPro], and [DATAcated] for making this challenge possible.
+A big thanks to Onyx Data, Pomerol Partners, Astrato Analytics, novyPro, and DATAcated for making this challenge possible.
