@@ -33,7 +33,9 @@ The main aim of this project is to analyze an automobile insurance companys data
 - About 55.8% of clients are Parents
 - 72% of Parent Population do not claim Insurance
 - 295 of clients have Kids driving
-- Avearge age of client is 47 years
+- Avearge age of client is 47 years 
+- 49% of clientshold a Bachelors degree with no significant claim frequency
+
 
 # Insights and Recommendations
 - Provision if tailored guidelines for various coverage areas.
@@ -51,8 +53,7 @@ The main aim of this project is to analyze an automobile insurance companys data
 - Exploratory Data Analysis
 - Data Visuaization
 - Data Protection and Sharing
-- 49% of clientshold a Bachelors degree with no significant claim frequency
-
+  
 # Tool Deployed
   Microsoft Excel
 
