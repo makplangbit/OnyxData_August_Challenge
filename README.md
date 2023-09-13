@@ -1,7 +1,7 @@
 # OnyxData_August_Challenge
 ![image](https://github.com/makplangbit/OnyxData_August_Challenge/assets/54783418/c035fa1a-b266-4377-9c95-b62e553f9c37)
 
-The Onyx Data DataDNA Dataset Challenge is the August 2023 Challenge where we are working on the Customer Car Insurance claims.
+The Onyx DataDNA Dataset Challenge is the August 2023 Challenge where we are working on the Customer Car Insurance claims.
 The main aim of this project is to analyze an automobile insurance companys dataset. This dataset was provided by [Onyx Data]
 
 # Analysis
